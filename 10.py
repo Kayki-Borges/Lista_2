@@ -10,3 +10,4 @@ else :
     print("O percentual de aumento aplicado é de {}".format("10%"))
     print("Seu salário vai aumentar no valor de {}R$".format("100"))
     print("O npvp salário é {}".format((5*s)/100))
+
