@@ -14,4 +14,3 @@ else :
     print("Seu salário vai aumentar no valor de {}R$".format((s*(5/100)+s)-s))
     print("-"*20)
     print("O novo salário é {}".format(s*(5/100)+s))
-
